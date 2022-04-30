@@ -2,7 +2,7 @@
 Photogrammetric model taken with an iPhone.  
 iPhoneでフォトグラメトリした [iwama](https://twitter.com/iwamah1) の3Dモデル. 
 
-USDZ版が欲しいね
+USDZ変換版をpushしてくれると嬉しい
 
 iwama.fbx : No weights and bones  
 iwama_weight.fbx : Weights and bones available  
