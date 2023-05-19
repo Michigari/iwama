@@ -1,5 +1,11 @@
 # iwama
-Photogrammetric model of [iwama](https://twitter.com/iwamah1) created with [Metascan](https://metascan.ai/).
+Photogrammetric model of [iwama](https://twitter.com/iwamah1) created with [Metascan](https://metascan.ai/) and [Scaniverse](https://scaniverse.com/).
+
+Meta Quest Proモデルを追加しました  
+[New Releases! Quest Pro Edition.](https://github.com/Michigari/iwama/releases/tag/v1.1)
+
+踊るAR iwama  
+[Support Reality Composer](https://github.com/Michigari/iwama/releases/tag/untagged-8e4d7c757c6298c89fbf)
 
 iwama.fbx : No weights and bones  
 iwama_weight.fbx : Weights and bones available  
